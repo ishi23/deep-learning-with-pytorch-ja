@@ -1,4 +1,5 @@
 # PyTorch 実践入門のリポジトリ
+（勉強のためフォーク。Jupyter notebookに色々書き込んでいく予定）
 
 <div align="center">
 <img src="./etc/表紙.png" alt="PyTorch実践入門" title="PyTorch実践入門" width=30% height=30%>
